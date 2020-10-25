@@ -1,5 +1,5 @@
 // Definim variables
-let nouAlumne = "";
+// let nouAlumne = "";
 let i;
 let ol = document.getElementById('llistaAlumnes');
 let items = ol.getElementsByTagName('li');
